@@ -147,3 +147,9 @@ footer{
 .ico{
     margin: 0 243px 0px 32px;
 }
+button:hover{
+    background: var(--Gold, #D5966C);
+}
+.secsec3{
+    display: none;
+}

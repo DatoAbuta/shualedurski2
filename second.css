@@ -109,3 +109,9 @@ h3{
     margin-top: 38px;
     margin-bottom: 38px;
 }
+button:hover{
+    background: var(--Gold, #D5966C);
+}
+.secsec3{
+    display: none;
+}

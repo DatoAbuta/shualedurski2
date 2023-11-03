@@ -42,6 +42,7 @@
         width: 398px;
         height: 720px;
         flex-shrink: 0;
+        margin: 32px 16px 16px 0;
     }
     .foto2{
         width: 280px;
@@ -110,9 +111,149 @@
         height: 100px;
     }
     .ico{
-        margin: 0 0 0 136px;
+        margin: 0 0 0 133px;
     }
     .fph{
         margin: 0 69px 0 0;
+    }
+    .headerdesk{
+        display: none;
+    }
+    .headerisfoto{
+        display: none;
+    }
+}
+@media (width >= 1440px){
+    .fisrtp{
+        color: var(--Dark-Grey, #444);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: 'Outfit';
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 32px; /* 145.455% */
+    }
+    .secsec2{
+        display: none;
+    }
+    .secsec{
+        display: none;
+    }
+    .secsec3{
+        display: block;
+    }
+    .bro{
+
+    }
+    h2{
+        margin: 0;
+        width: 350px;
+        height: 120px;
+        color: var(--Almost-Black, #151515);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: 'Big Shoulders Display';
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 60px; /* 100% */
+        text-transform: uppercase;
+    }
+    .wander{
+        margin: 32px 0 0 0;
+        width: 350px;
+        color: var(--Dark-Grey, #444);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: 'Outfit';
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 32px; /* 145.455% */
+    }
+    .foto{
+        width: 635px;
+        height: 720px;
+        flex-shrink: 0;
+    }
+    .suratebi{
+        width: 635px;
+        height: 400px;
+        flex-shrink: 0;
+        margin-left: 125px;
+    }
+    .foto2{
+        width: 445px;
+        height: 313px;
+        flex-shrink: 0;
+    }
+    .box2{
+        width: 445px;
+        height: 377px;
+        flex-shrink: 0;
+        margin-top: 20px;
+        padding-top: 65px;
+        padding-left: 48px;
+    }
+    .come{
+        width: 350px;
+        color: var(--White, #FFF);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: 'Big Shoulders Display';
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 60px; /* 100% */
+        text-transform: uppercase;
+        margin: 0;
+    }
+    .weare{
+        width: 350px;
+        margin: 32px 0 0 0;
+        color: var(--White, #FFF);
+        font-feature-settings: 'clig' off, 'liga' off;
+        font-family: 'Outfit';
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 32px; /* 145.455% */
+    }
+    footer{
+        padding: 80px 0 80px 165px;
+    }
+    .fp{
+        width: 430px;
+        color: var(--White, #FFF);
+        font-family: 'Outfit';
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 28px; /* 155.556% */
+        margin: 0 280px 0 0;
+    }
+    .fph{
+        margin-right: 140px;
+        width: 159.572px;
+        height: 58px;
+        flex-shrink: 0;
+    }
+    .ico{
+        margin: 0;
+    }
+    .firstt{
+        display: none;
+    }
+    .headertab{
+        display: none;
+    }
+    .headerdesk{
+        display: block;
+        position: relative;
+        right: 227px;
+        top: -1px;
+    }
+    .lado{
+        position: absolute;
+        top: 190px;
+        right: 0;
+        left: 700px;
     }
 }
