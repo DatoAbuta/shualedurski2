@@ -4,6 +4,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+.headerdesk{
+    display: none;
+}
+.headertab{
+    display: none;
+}
 .container{
     display: flex;
     justify-content: center;
@@ -22,6 +28,9 @@
     font-weight: 900;
     line-height: 55px; /* 91.667% */
     text-transform: uppercase;
+}
+.secsectab{
+    display: none;
 }
 .fisrtp{
     margin: 0 16px;
@@ -75,6 +84,9 @@ h2{
     line-height: 28px; /* 155.556% */
     width: 343px;
     margin: 21px 16px 0 16px;
+}
+.secsec2{
+    display: none;
 }
 .suratebi{
     margin-left: 16px;

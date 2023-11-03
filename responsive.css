@@ -1,0 +1,118 @@
+@media (width >= 768px){
+    .headerisfoto{
+        display: none;
+    }
+    .head{
+        position: relative;
+    }
+    .firstt{
+        margin: 145px 40px 48px 369px;
+    }
+    .fisrtp{
+        margin: 0 40px 48px 369px;
+    }
+    .box{
+        margin: 0;
+    }
+    .headertab{
+        display: block;
+        width: 437px;
+        height: 700px;
+        position: relative;
+        right: 165px;
+    }
+    .lado{
+        position: absolute;
+        top: 145px;
+        right: 0;
+        left: 230px;
+    }
+    .firstt{
+        margin: 0 0 48px 0;
+    }
+    .fisrtp{
+        margin: 0 0 48px 0;
+    }
+    .suratebi{
+        width: 398px;
+        height: 400px;
+        flex-shrink: 0;
+    }
+    .foto{
+        width: 398px;
+        height: 720px;
+        flex-shrink: 0;
+    }
+    .foto2{
+        width: 280px;
+        height: 313px;
+        flex-shrink: 0;
+        margin: 0 0 385px 0;
+    }
+    .secsec2{
+        display: block;
+    }
+    .secsec{
+        display: none;
+    }
+    .bro{
+        display: flex;
+        flex-direction: row-reverse;
+        margin-top: 120px;
+    }
+    .wander{
+        width: 223px;
+        text-align: start;
+        margin-top: 59px;
+    }
+    h2{
+        width: 223px;
+    }
+    .qvemot{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        grid-template-columns: auto auto;
+        position: relative;
+    }
+    .box2{
+        width: 280px;
+        position: absolute;
+        right: 0;
+        top: 355px;
+        margin: 0;
+        width: 280px;
+        height: 396px;
+        flex-shrink: 0;
+        padding-top: 85px;
+    }
+    .weare{
+        color: var(--White, #FFF);
+        font-family: Outfit;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 28px; /* 155.556% */
+        width: 223px;
+    }
+    footer{
+        margin-top: 120px;
+        display: flex;
+        padding-left: 39px;
+        width: 100%;
+        height: 216px;
+        flex-shrink: 0;
+        padding-bottom: 56px;
+    }
+    .fp{
+        margin: 56px 0 0 0;
+        width: 281px;
+        height: 100px;
+    }
+    .ico{
+        margin: 0 0 0 136px;
+    }
+    .fph{
+        margin: 0 69px 0 0;
+    }
+}
