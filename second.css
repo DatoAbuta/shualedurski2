@@ -59,8 +59,9 @@ a{
 }
 .location{
     position: absolute;
-    top: 231px;
-    left: 41%;
+    top: 240px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 .box2{
     width: 100%;

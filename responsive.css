@@ -25,7 +25,8 @@
         position: absolute;
         top: 145px;
         right: 0;
-        left: 230px;
+        left: 223px;
+        width: 100%;
     }
     .firstt{
         margin: 0 0 48px 0;
@@ -141,9 +142,6 @@
     }
     .secsec3{
         display: block;
-    }
-    .bro{
-
     }
     h2{
         margin: 0;

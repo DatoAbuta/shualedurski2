@@ -7,8 +7,10 @@
         width: 100%;
     }
     .location{
-        top: 263px;
-        left: 45.5%;
+        position: absolute;
+        top: 240px;
+        left: 50%;
+        transform: translateX(-50%);
     }
     .box2{
         display: flex;
@@ -54,8 +56,10 @@
         margin-left: 156px;
     }
     .location{
-        top: 263px;
-        left: 47.5%;
+        position: absolute;
+        top: 240px;
+        left: 50%;
+        transform: translateX(-50%);
     }
     header{
         position: relative;
