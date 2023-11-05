@@ -4,11 +4,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-.zemot{
+header{
     position: relative;
-    background-image: url(assets/ruqa.png);
+    background-image: url(assets/ruqadesk.png);
+    background-position: center;
     height: 550px;
-    background-repeat: no-repeat;
+    width: 100%;
 }
 .container{
     display: flex;

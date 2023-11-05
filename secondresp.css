@@ -1,10 +1,10 @@
 @media (width >= 768px){
-    .zemot{
+    header{
         position: relative;
-        background-image: url(assets/baro.png);
+        background-image: url(assets/ruqadesk.png);
         height: 550px;
-        background-repeat: no-repeat;
         width: 768px;
+        width: 100%;
     }
     .location{
         top: 263px;
@@ -57,11 +57,10 @@
         top: 263px;
         left: 47.5%;
     }
-    .zemot{
+    header{
         position: relative;
         background-image: url(assets/ruqadesk.png);
         height: 550px;
-        background-repeat: no-repeat;
         width: 100%;
     }
     footer{
